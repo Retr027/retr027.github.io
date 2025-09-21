@@ -7,8 +7,7 @@
 
 <h2>Gameplay Mechanics Project</h2>
 <p>This project was made for a university module about mechanics programming. The project was made in Unreal Engine 5 and was a system for a rouge-like game where you gain experience points from killing enemies and can choose an upgrade once you level up</p>
-![giphy](https://github.com/user-attachments/assets/f6357509-1f94-4cc2-b3a7-3c280155b3fb)
-![a6r1zj](https://github.com/user-attachments/assets/25d8ced2-e844-4ea5-911b-b073c6acfabb)
+
 
 
 <br> <a> https://retr027.itch.io/ </a>
